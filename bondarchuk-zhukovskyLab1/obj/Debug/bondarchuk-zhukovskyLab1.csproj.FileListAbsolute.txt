@@ -1,0 +1,9 @@
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\bin\Debug\bondarchuk-zhukovskyLab1.exe.config
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\bin\Debug\bondarchuk-zhukovskyLab1.exe
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\bin\Debug\bondarchuk-zhukovskyLab1.pdb
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk-zhukovskyLab1.csprojAssemblyReference.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk_zhukovskyLab1.Properties.Resources.resources
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk-zhukovskyLab1.csproj.GenerateResource.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk-zhukovskyLab1.exe
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk-zhukovskyLab1.pdb
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk_zhukovskyLab1.Form1.resources
