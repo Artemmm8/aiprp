@@ -26,10 +26,9 @@ namespace bondarchuk_zhukovskyLab2_client_
                     byte[] data = Encoding.Unicode.GetBytes(operation);
                     socket.Send(data);
 
-                    // получаем ответ
-                    data = new byte[256]; // буфер для ответа
+                    data = new byte[256];
                     StringBuilder builder = new StringBuilder();
-                    int bytes = 0; // количество полученных байт
+                    int bytes = 0;
 
                     do
                     {
@@ -39,7 +38,6 @@ namespace bondarchuk_zhukovskyLab2_client_
                     while (socket.Available > 0);
                     Console.WriteLine("ответ сервера: " + builder.ToString());
 
-                    // закрываем сокет
                     socket.Shutdown(SocketShutdown.Both);
                     socket.Close();
                     Console.Write("желаете продолжить выполнение операций со счётом?(y/n) ");

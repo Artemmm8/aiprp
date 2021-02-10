@@ -11,7 +11,7 @@ namespace bondarchuk_zhukovskyLab2_server_
 {
     public partial class Form1 : Form
     {
-        private int port = 8005; // порт для приема входящих запросов
+        private int port = 8005;
         private string ip = "127.0.0.1";
         private Account account;
         private Services.FileIOService fileIOService;
@@ -27,27 +27,23 @@ namespace bondarchuk_zhukovskyLab2_server_
 
         private void DoWork()
         {
-            // получаем адреса для запуска сокета
             IPEndPoint ipPoint = new IPEndPoint(IPAddress.Parse(ip), port);
 
-            // создаем сокет
             Socket listenSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             try
             {
-                // связываем сокет с локальной точкой, по которой будем принимать данные
                 listenSocket.Bind(ipPoint);
 
-                // начинаем прослушивание
                 listenSocket.Listen(10);
 
                 this.Text = "Сервер запущен. Ожидание подключений...";
                 while (true)
                 {
                     Socket handler = listenSocket.Accept();
-                    // получаем сообщение
+
                     StringBuilder builder = new StringBuilder();
-                    int bytes = 0; // количество полученных байтов
-                    byte[] data = new byte[256]; // буфер для получаемых данных
+                    int bytes = 0;
+                    byte[] data = new byte[256];
 
                     do
                     {
@@ -88,14 +84,12 @@ namespace bondarchuk_zhukovskyLab2_server_
                         }
                     }
 
-                    // отправляем ответ
                     message += $"(баланс счёта {account.Sum} ден. ед.)";
                     data = Encoding.Unicode.GetBytes(message);
                     handler.Send(data);
                     this.textBox2.Text = account.Sum.ToString();
                     fileIOService.SaveData(account.Sum);
 
-                    // закрываем сокет
                     handler.Shutdown(SocketShutdown.Both);
                     handler.Close();
                 }
