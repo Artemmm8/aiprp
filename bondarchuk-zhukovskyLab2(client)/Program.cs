@@ -7,9 +7,8 @@ namespace bondarchuk_zhukovskyLab2_client_
 {
     class Program
     {
-        // адрес и порт сервера, к которому будем подключаться
-        static int port = 8005; // порт сервера
-        static string address = "127.0.0.1"; // адрес сервера
+        static int port = 8005;
+        static string address = "127.0.0.1";
         static void Main(string[] args)
         {
             try
