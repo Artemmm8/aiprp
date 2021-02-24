@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bondarchuk-zhukovskyLab2(se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bondarchuk-zhukovskyLab2(client)", "bondarchuk-zhukovskyLab2(client)\bondarchuk-zhukovskyLab2(client).csproj", "{D3251FB1-E2F2-4DC8-A85D-7267B2C25165}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bondarchuk-zhukovskyLab3", "bondarchuk-zhukovskyLab3\bondarchuk-zhukovskyLab3.csproj", "{6937B052-F551-497B-8A83-79077EBEDECC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D3251FB1-E2F2-4DC8-A85D-7267B2C25165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3251FB1-E2F2-4DC8-A85D-7267B2C25165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3251FB1-E2F2-4DC8-A85D-7267B2C25165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6937B052-F551-497B-8A83-79077EBEDECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6937B052-F551-497B-8A83-79077EBEDECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6937B052-F551-497B-8A83-79077EBEDECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6937B052-F551-497B-8A83-79077EBEDECC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

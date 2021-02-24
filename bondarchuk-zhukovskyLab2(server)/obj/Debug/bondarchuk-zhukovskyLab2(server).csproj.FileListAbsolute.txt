@@ -6,7 +6,6 @@ F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk_zhukovsk
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk-zhukovskyLab2(server).csproj.GenerateResource.cache
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk-zhukovskyLab2(server).exe
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk-zhukovskyLab2(server).pdb
-F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk-zhukovskyLab2(server).csprojAssemblyReference.cache
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\bin\Debug\Newtonsoft.Json.dll
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\bin\Debug\Newtonsoft.Json.xml
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk-zhukovskyLab2(server).csproj.CopyComplete
