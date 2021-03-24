@@ -1,0 +1,12 @@
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).deps.json
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\bin\Debug\net5.0\ref\bondarchuk-zhukovskyLab5(class library).dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).pdb
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).AssemblyInfoInputs.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).AssemblyInfo.cs
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).csproj.CoreCompileInputs.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\obj\Debug\net5.0\ref\bondarchuk-zhukovskyLab5(class library).dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).pdb
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(class library)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).csprojAssemblyReference.cache

@@ -19,8 +19,8 @@ namespace bondarchuk_zhukovskyLab3
 
         public void ConfigureServices(IServiceCollection services)
         {
-            string connection = Configuration.GetConnectionString("DefaultConnection");
-            services.AddDbContext<GlossaryContext>(options => options.UseSqlServer(connection));
+            string connection = Configuration.GetConnectionString("CustomConnection");
+            services.AddDbContext<dictionarydbContext>(options => options.UseSqlServer(connection));
             services.AddControllersWithViews();
         }
 

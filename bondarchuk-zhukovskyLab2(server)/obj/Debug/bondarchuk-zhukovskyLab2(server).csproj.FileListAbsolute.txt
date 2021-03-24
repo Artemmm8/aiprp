@@ -9,3 +9,5 @@ F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk-zhukovsk
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\bin\Debug\Newtonsoft.Json.dll
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\bin\Debug\Newtonsoft.Json.xml
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk-zhukovskyLab2(server).csproj.CopyComplete
+F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk-zhukovskyLab2(server).csprojAssemblyReference.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab2(server)\obj\Debug\bondarchuk-zhukovskyLab2(server).csproj.CoreCompileInputs.cache

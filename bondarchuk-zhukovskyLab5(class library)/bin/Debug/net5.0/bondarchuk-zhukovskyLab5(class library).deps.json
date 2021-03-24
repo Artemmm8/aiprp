@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bondarchuk-zhukovskyLab5(class library)/1.0.0": {
+        "runtime": {
+          "bondarchuk-zhukovskyLab5(class library).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bondarchuk-zhukovskyLab5(class library)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

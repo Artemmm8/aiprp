@@ -68,3 +68,5 @@ F:\programs\AIPRP\bondarchuk-zhukovskyLab3\obj\Debug\net5.0\bondarchuk-zhukovsky
 F:\programs\AIPRP\bondarchuk-zhukovskyLab3\obj\Debug\net5.0\ref\bondarchuk-zhukovskyLab3.dll
 F:\programs\AIPRP\bondarchuk-zhukovskyLab3\obj\Debug\net5.0\bondarchuk-zhukovskyLab3.pdb
 F:\programs\AIPRP\bondarchuk-zhukovskyLab3\obj\Debug\net5.0\bondarchuk-zhukovskyLab3.genruntimeconfig.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab3\bin\Debug\net5.0\Humanizer.dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab3\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

@@ -7,3 +7,4 @@ F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk-zhukovskyLab1.cs
 F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk-zhukovskyLab1.exe
 F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk-zhukovskyLab1.pdb
 F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk_zhukovskyLab1.Form1.resources
+F:\programs\AIPRP\bondarchuk-zhukovskyLab1\obj\Debug\bondarchuk-zhukovskyLab1.csproj.CoreCompileInputs.cache

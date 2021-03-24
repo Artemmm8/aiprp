@@ -1,15 +1,17 @@
-﻿using bondarchuk_zhukovskyLab3.Models;
+﻿
 using Microsoft.AspNetCore.Mvc;
 
 namespace bondarchuk_zhukovskyLab3.Controllers
 {
     public class HomeController : Controller
     {
-        GlossaryContext db;
+        // private readonly GlossaryContext _db;
+        private readonly dictionarydbContext _dictionarydb;
 
-        public HomeController(GlossaryContext context)
+        public HomeController(dictionarydbContext context)
         {
-            db = context;
+            // _db = context;
+            this._dictionarydb = context;
         }
 
         public IActionResult Index()
@@ -18,7 +20,7 @@ namespace bondarchuk_zhukovskyLab3.Controllers
         }
 
         [HttpPost]
-        public IActionResult Index(Glossary glossary)
+        public IActionResult Index(DictionaryBook glossary)
         {
             if (glossary.EnglishWord is null && glossary.RussianWord is null)
             {
@@ -28,7 +30,7 @@ namespace bondarchuk_zhukovskyLab3.Controllers
             {
                 ViewBag.RussianWord = glossary.RussianWord;
                 string russianWord = glossary.RussianWord.ToLower();
-                foreach (var item in db.Glossaries)
+                foreach (var item in _dictionarydb.DictionaryBooks)
                 {
                     if (item.RussianWord == russianWord)
                     {
@@ -41,7 +43,7 @@ namespace bondarchuk_zhukovskyLab3.Controllers
             {
                 ViewBag.EnglishWord = glossary.EnglishWord;
                 string englishWord = glossary.EnglishWord.ToLower();
-                foreach (var item in db.Glossaries)
+                foreach (var item in _dictionarydb.DictionaryBooks)
                 {
                     if (item.EnglishWord == englishWord)
                     {

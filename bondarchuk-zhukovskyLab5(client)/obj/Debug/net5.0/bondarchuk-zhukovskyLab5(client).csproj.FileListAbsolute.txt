@@ -1,0 +1,19 @@
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(client).exe
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(client).deps.json
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(client).runtimeconfig.json
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(client).runtimeconfig.dev.json
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(client).dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\bin\Debug\net5.0\ref\bondarchuk-zhukovskyLab5(client).dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(client).pdb
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(client).GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(client).AssemblyInfoInputs.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(client).AssemblyInfo.cs
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(client).csproj.CoreCompileInputs.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(client).dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\ref\bondarchuk-zhukovskyLab5(client).dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(client).pdb
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(client).genruntimeconfig.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).dll
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\bin\Debug\net5.0\bondarchuk-zhukovskyLab5(class library).pdb
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(client).csprojAssemblyReference.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab5(client)\obj\Debug\net5.0\bondarchuk-zhukovskyLab5(client).csproj.CopyComplete

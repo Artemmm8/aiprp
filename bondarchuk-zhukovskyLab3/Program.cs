@@ -17,8 +17,8 @@ namespace bondarchuk_zhukovskyLab3
                 var services = scope.ServiceProvider;
                 try
                 {
-                    var context = services.GetRequiredService<GlossaryContext>();
-                    SampleData.Initialize(context);
+                    var context = services.GetRequiredService<dictionarydbContext>();
+                    // SampleData.Initialize(context);
                 }
                 catch (Exception ex)
                 {

@@ -3,3 +3,5 @@ F:\programs\AIPRP\bondarchuk-zhukovskyLab2(client)\bin\Debug\bondarchuk-zhukovsk
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(client)\bin\Debug\bondarchuk-zhukovskyLab2(client).pdb
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(client)\obj\Debug\bondarchuk-zhukovskyLab2(client).exe
 F:\programs\AIPRP\bondarchuk-zhukovskyLab2(client)\obj\Debug\bondarchuk-zhukovskyLab2(client).pdb
+F:\programs\AIPRP\bondarchuk-zhukovskyLab2(client)\obj\Debug\bondarchuk-zhukovskyLab2(client).csprojAssemblyReference.cache
+F:\programs\AIPRP\bondarchuk-zhukovskyLab2(client)\obj\Debug\bondarchuk-zhukovskyLab2(client).csproj.CoreCompileInputs.cache
